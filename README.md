@@ -1,4 +1,4 @@
-# ReadMe
+# Read Me
 
 DE:
 
@@ -14,7 +14,7 @@ Somit habe ich eine eigene Logarithmus funktion programmiert
 
 ENG:
 
-A Algorithm i discovered myself, which approximates a given Logarithm expression.
+An Algorithm i discovered myself, which approximates a given Logarithm expression.
 Tt does so via Continued fractions, which can continue indefinetly if the result is a Irrational Number,
 but of course i set the maximum to 20.
 It terminates at some point, if the result of the logarithm is a rational number. 
