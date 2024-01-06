@@ -15,7 +15,7 @@ Somit habe ich eine eigene Logarithmus funktion programmiert
 ENG:
 
 An Algorithm i discovered myself, which approximates a given Logarithm expression.
-Tt does so via Continued fractions, which can continue indefinetly if the result is a Irrational Number,
+It does so via continued fractions, which can continue indefinetly if the result is a Irrational Number,
 but of course i set the maximum to 20.
 It terminates at some point, if the result of the logarithm is a rational number. 
 And so basically i programmed my own Logarithm function
