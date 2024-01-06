@@ -9,7 +9,7 @@ Und in der Tat passiert es auch so dass, wenn der Wert von einer Logarithmus fun
 dann geht der Kettenbruch unendlich lange weiter, ich habe aber ab 20 eine Grenze gesetzt.
 Jedoch wenn der Wert Rational ist, dann tut der Kettenbruch irgendwann den Tatsächlichen Wert erreichen, 
 und der Algorithmus terminiert. 
-Somit habe ich eine eigene Logarithmus funktion programmiert.
+Somit habe ich eine eigene Logarithmus funktion programmiert
 
 
 ENG:
@@ -18,4 +18,4 @@ A Algorithm i discovered myself, which approximates a given Logarithm expression
 Tt does so via Continued fractions, which can continue indefinetly if the result is a Irrational Number,
 but of course i set the maximum to 20.
 It terminates at some point, if the result of the logarithm is a rational number. 
-And so basically i programmed my own Logarithm function. 
+And so basically i programmed my own Logarithm function
