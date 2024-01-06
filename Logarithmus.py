@@ -2,10 +2,10 @@
 
 #-------------------------------#
 #Basis entspricht somit 2/1, bitte nur Ganzzahlen
-bruch_basis = (512, 1)
+bruch_basis = (2, 1)
 #-------------------------------#
 #Argument Entspricht somit 5/1, bitte nur Ganzzahlen
-bruch_argument = (4, 1)
+bruch_argument = (5, 1)
 #-------------------------------#
 #Also Log[bruch_basis](bruch_argument)
 #-------------------------------#
